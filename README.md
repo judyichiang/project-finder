@@ -44,7 +44,7 @@ Try the application live at [finder.com](https://finder.judyichiang.com/)
 #### Getting Started
 1. Clone the repo
   ```shell
-  git clone https://github.com/judyichiang/project-finder [finder.com](https://finder.judyichiang.com/)
+  git clone https://github.com/judyichiang/project-finder
   ```
 2. Change directory to cloned folder
   ```shell
