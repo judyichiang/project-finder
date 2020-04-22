@@ -4,7 +4,7 @@ Finder is a dynamic web application for hungry people where the user can search 
 
 ## Live Demo
 
-Try the application live at [finder.com](https://finder.johnjhc.com/)
+Try the application live at [finder.com](https://finder.judyichiang.com/)
 
 ## Technologies To Be Used
 
@@ -44,7 +44,7 @@ Try the application live at [finder.com](https://finder.johnjhc.com/)
 #### Getting Started
 1. Clone the repo
   ```shell
-  git clone https://github.com/john-jaihyek-choi/finder.git
+  git clone https://github.com/judyichiang/project-finder.git
   ```
 2. Change directory to cloned folder
   ```shell
