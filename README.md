@@ -50,7 +50,7 @@ Try the application live at [finder.com](https://finder.judyichiang.com/)
   ```shell
   cd finder/
   ```
-3. Install all dependencies with NPM
+3. Install all dependencies with npm
   ```shell
   npm install
   ```
