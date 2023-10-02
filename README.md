@@ -2,10 +2,6 @@
 
 Finder is a dynamic web application for hungry people where the user can search for food around their locations.
 
-## Live Demo
-
-Try the application live at [finder.com](https://finder.judyichiang.com/)
-
 ## Technologies To Be Used
 
 - HTML5
